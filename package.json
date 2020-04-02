@@ -1,0 +1,27 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "This bot will take a band name and find a list of upcoming shows or events.  Given the COV19 many of the shows shown will probably be cancelled. To find a show use concert-this.  This bot will also give you song information through spotify. Use spotify-this to find the song and more information.",
+  "main": "Programmer.js",
+  "dependencies": {
+    "concert": "^2.1.0",
+    "dotenv": "^8.2.0",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.2",
+    "spotify": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzannaudra/LIRII.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzannaudra/LIRII/issues"
+  },
+  "homepage": "https://github.com/suzannaudra/LIRII#readme"
+}
