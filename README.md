@@ -19,6 +19,10 @@ This will search the Spotify API for a song and show the following information a
   * A preview link of the song from Spotify
   * The album that the song is from
 
+# Spotify API keys
+
+SPOTIFY_ID=
+SPOTIFY_SECRET=
 
 Do-What-it-says
 
